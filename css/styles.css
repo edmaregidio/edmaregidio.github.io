@@ -16,7 +16,7 @@
   --bs-purple: #6f42c1;
   --bs-pink: #d63384;
   --bs-red: #dc3545;
-  --bs-orange: #bd5d38;
+  --bs-orange: #1c242c;
   --bs-yellow: #ffc107;
   --bs-green: #198754;
   --bs-teal: #20c997;
@@ -34,7 +34,7 @@
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
-  --bs-primary: #bd5d38;
+  --bs-primary: #1c242c;
   --bs-secondary: #6c757d;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
@@ -73,7 +73,7 @@
   --bs-border-radius-xl: 1rem;
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
-  --bs-link-color: #bd5d38;
+  --bs-link-color: #1c242c;
   --bs-link-hover-color: #974a2d;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
@@ -3236,7 +3236,7 @@ textarea.form-control-lg {
   --bs-dropdown-link-hover-color: #1e2125;
   --bs-dropdown-link-hover-bg: #e9ecef;
   --bs-dropdown-link-active-color: #fff;
-  --bs-dropdown-link-active-bg: #bd5d38;
+  --bs-dropdown-link-active-bg: #1c242c;
   --bs-dropdown-link-disabled-color: #adb5bd;
   --bs-dropdown-item-padding-x: 1rem;
   --bs-dropdown-item-padding-y: 0.25rem;
@@ -3684,7 +3684,7 @@ textarea.form-control-lg {
 .nav-pills {
   --bs-nav-pills-border-radius: 0.375rem;
   --bs-nav-pills-link-active-color: #fff;
-  --bs-nav-pills-link-active-bg: #bd5d38;
+  --bs-nav-pills-link-active-bg: #1c242c;
 }
 .nav-pills .nav-link {
   background: none;
@@ -4783,7 +4783,7 @@ textarea.form-control-lg {
 }
 
 .list-group {
-  --bs-list-group-color: #212529;
+  --bs-list-group-color: #1c242c;
   --bs-list-group-bg: #fff;
   --bs-list-group-border-color: rgba(0, 0, 0, 0.125);
   --bs-list-group-border-width: 1px;
@@ -4798,8 +4798,8 @@ textarea.form-control-lg {
   --bs-list-group-disabled-color: #6c757d;
   --bs-list-group-disabled-bg: #fff;
   --bs-list-group-active-color: #fff;
-  --bs-list-group-active-bg: #bd5d38;
-  --bs-list-group-active-border-color: #bd5d38;
+  --bs-list-group-active-bg: #1c242c;
+  --bs-list-group-active-border-color: #1c242c;
   display: flex;
   flex-direction: column;
   padding-left: 0;
@@ -6697,7 +6697,7 @@ textarea.form-control-lg {
 }
 
 .link-primary {
-  color: #bd5d38 !important;
+  color: #1c242c !important;
 }
 .link-primary:hover, .link-primary:focus {
   color: #ca7d60 !important;
@@ -10937,7 +10937,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #1c242c;
 }
 
 .dev-icons {
