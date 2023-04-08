@@ -684,6 +684,9 @@ progress {
 .social-icons .social-icon:hover {
   background-color: #1c242c;
 }
+.dev-icons {
+  font-size: 3rem;
+}
 .row {
   --bs-gutter-x: 1.5rem;
   --bs-gutter-y: 0;
