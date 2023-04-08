@@ -5954,7 +5954,7 @@ textarea.form-control-lg {
   width: 2rem;
   height: 2rem;
   background-repeat: no-repeat;
-  background-position: 50%;
+  background-position: 60%;
   background-size: 80% 80%;
 }
 
@@ -8312,7 +8312,7 @@ textarea.form-control-lg {
 }
 
 .rounded-circle {
-  border-radius: 30% !important;
+  border-radius: 40% !important;
 }
 
 .rounded-pill {
