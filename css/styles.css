@@ -598,7 +598,7 @@ progress {
 }
 
 .img-fluid {
-  max-width: 50%;
+  max-width: 20%;
   height: auto;
 }
 
@@ -6012,7 +6012,7 @@ textarea.form-control-lg {
   width: var(--bs-spinner-width);
   height: var(--bs-spinner-height);
   vertical-align: var(--bs-spinner-vertical-align);
-  border-radius: 50%;
+  border-radius: 20%;
   animation: var(--bs-spinner-animation-speed) linear infinite var(--bs-spinner-animation-name);
 }
 
